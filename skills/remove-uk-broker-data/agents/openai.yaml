@@ -1,0 +1,14 @@
+interface:
+  display_name: UK Data Broker Removal
+  short_description: Track UK broker removals and monthly rechecks
+  default_prompt: Use $remove-uk-broker-data to review my removal log, check for reappearances,
+    and complete authorised requests.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

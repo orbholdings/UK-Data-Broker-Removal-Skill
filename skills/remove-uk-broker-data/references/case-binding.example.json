@@ -1,0 +1,8 @@
+{
+  "case_pack_name": null,
+  "case_pack_library_file_id": null,
+  "private_log_path_in_pack": "removal-log.json",
+  "timezone": "Europe/London",
+  "email_access_scope": "not_authorised",
+  "notes": "Fictional unbound configuration. Resolve the user's selected private case and explicit authorisation before using mail or sending any request. Keep the populated case-binding.json outside version control."
+}
